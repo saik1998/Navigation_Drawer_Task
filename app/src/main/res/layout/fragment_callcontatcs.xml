@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".ui.callcontacts.CallcontatcsFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <androidx.viewpager2.widget.ViewPager2
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_margin="10dp"
+            android:id="@+id/viewpagercontact"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="ContactLoading"
+            android:textSize="22sp"
+            android:textStyle="bold"/>
+
+        <androidx.appcompat.widget.SearchView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            app:queryHint="Search here....."
+            app:iconifiedByDefault="false"
+
+            android:background="@drawable/search_view"
+
+
+            android:id="@+id/search_view_contact"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_margin="10dp"
+            android:visibility="gone"
+            android:hint="all contacts"
+            android:id="@+id/text_view_contact"/>
+
+
+
+
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/recycler_contact"
+            android:layout_margin="10dp"
+            android:background="@drawable/custom_ripple"
+            tools:listitem="@layout/custom_contact"
+            android:dividerHeight="5dp" />
+
+
+
+
+    </LinearLayout>
+</FrameLayout>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/UllingalaSaiKrishna/AndroidStudioProjects/Navigation_Drawer_Task/app/src/main/res/drawable/custom_ripple.xml" value="0.1475" />
+        <entry key="..\:/Users/UllingalaSaiKrishna/AndroidStudioProjects/Navigation_Drawer_Task/app/src/main/res/drawable/ic_menu_camera.xml" value="0.1475" />
+        <entry key="..\:/Users/UllingalaSaiKrishna/AndroidStudioProjects/Navigation_Drawer_Task/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.1475" />
+        <entry key="..\:/Users/UllingalaSaiKrishna/AndroidStudioProjects/Navigation_Drawer_Task/app/src/main/res/drawable/search_view.xml" value="0.1475" />
+        <entry key="..\:/Users/UllingalaSaiKrishna/AndroidStudioProjects/Navigation_Drawer_Task/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/UllingalaSaiKrishna/AndroidStudioProjects/Navigation_Drawer_Task/app/src/main/res/layout/app_bar_main.xml" value="0.196875" />
+        <entry key="..\:/Users/UllingalaSaiKrishna/AndroidStudioProjects/Navigation_Drawer_Task/app/src/main/res/layout/contact_load.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/UllingalaSaiKrishna/AndroidStudioProjects/Navigation_Drawer_Task/app/src/main/res/layout/content_main.xml" value="0.196875" />
+        <entry key="..\:/Users/UllingalaSaiKrishna/AndroidStudioProjects/Navigation_Drawer_Task/app/src/main/res/layout/custom_call_log.xml" value="0.2078125" />
+        <entry key="..\:/Users/UllingalaSaiKrishna/AndroidStudioProjects/Navigation_Drawer_Task/app/src/main/res/layout/custom_contact.xml" value="0.196875" />
+        <entry key="..\:/Users/UllingalaSaiKrishna/AndroidStudioProjects/Navigation_Drawer_Task/app/src/main/res/layout/custom_sliders.xml" value="0.196875" />
+        <entry key="..\:/Users/UllingalaSaiKrishna/AndroidStudioProjects/Navigation_Drawer_Task/app/src/main/res/layout/fragment_call_log.xml" value="0.16" />
+        <entry key="..\:/Users/UllingalaSaiKrishna/AndroidStudioProjects/Navigation_Drawer_Task/app/src/main/res/layout/fragment_call_log___main.xml" value="0.196875" />
+        <entry key="..\:/Users/UllingalaSaiKrishna/AndroidStudioProjects/Navigation_Drawer_Task/app/src/main/res/layout/fragment_callcontatcs.xml" value="0.22" />
+        <entry key="..\:/Users/UllingalaSaiKrishna/AndroidStudioProjects/Navigation_Drawer_Task/app/src/main/res/layout/fragment_gallery.xml" value="0.196875" />
+        <entry key="..\:/Users/UllingalaSaiKrishna/AndroidStudioProjects/Navigation_Drawer_Task/app/src/main/res/layout/fragment_home.xml" value="0.196875" />
+        <entry key="..\:/Users/UllingalaSaiKrishna/AndroidStudioProjects/Navigation_Drawer_Task/app/src/main/res/layout/fragment_slideshow.xml" value="0.196875" />
+        <entry key="..\:/Users/UllingalaSaiKrishna/AndroidStudioProjects/Navigation_Drawer_Task/app/src/main/res/layout/nav_header_main.xml" value="0.196875" />
+        <entry key="..\:/Users/UllingalaSaiKrishna/AndroidStudioProjects/Navigation_Drawer_Task/app/src/main/res/layout/slider_image.xml" value="0.196875" />
+        <entry key="..\:/Users/UllingalaSaiKrishna/AndroidStudioProjects/Navigation_Drawer_Task/app/src/main/res/menu/activity_main_drawer.xml" value="0.33" />
+        <entry key="..\:/Users/UllingalaSaiKrishna/AndroidStudioProjects/Navigation_Drawer_Task/app/src/main/res/menu/main.xml" value="0.196875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
